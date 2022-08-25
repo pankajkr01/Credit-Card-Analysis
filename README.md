@@ -1,4 +1,4 @@
-# Python_Project
+# Credit Card Analysis
 ### A Brief Analysis and Insight on dataset of Credit Card 
 ### Using of Python, Pandas, Numpy and Matplotlib
 ## Information About Dataset
